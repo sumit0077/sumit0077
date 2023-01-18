@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit0077" alt="sumit0077" /></a> </p>
 
-- 💬 Ask me about **Java,Sql,HTML,CSS,React**
+ **Java,Sql,HTML,CSS,React**
 
 - 📫 How to reach me **xperia7048@gmail.com**
 
